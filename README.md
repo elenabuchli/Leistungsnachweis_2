@@ -17,7 +17,7 @@ Welche Gründe gibt es für die Veränderungen?
 Quellen:
 https://ourworldindata.org/gender-ratio
 
-git commit -m "Outline"
+
 
 
 
