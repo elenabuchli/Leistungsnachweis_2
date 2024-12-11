@@ -1,16 +1,16 @@
 # Leistungsnachweis_2
 
-## Frauenanteil der Bevölkerung zwischen 1960 und 2022
+## Frauenanteil der Bevölkerung zwischen 2000 und 2020
 
 ### Gruppe: 
 Miranda Downing, Elena Buchli
 
 ### Outline:
-Wir möchten uns mit dem Bevölkerungsanteil von Frauen befassen. Dazu verwenden wir Daten welche zwischen 1960 und 2022 erfasst wurden.
+Wir möchten uns mit dem Bevölkerungsanteil von Frauen befassen. Dazu verwenden wir Daten welche zwischen 2000 und 2020 erfasst wurden.
 Das Verhältnis zwischen männlicher und weiblicher Bevölkerung wird als "gender-ratio" bezeichnet. Die Begriffe "sex" und "gender" werden in den Daten als Synonyme verwendet.
 
 ### Fragestellung:
-In welchen Ländern ist der Bevölkerungsanteil der Frauen zwischen 1960 und 2022 am meisten gesunken oder gestiegen?
+In welchen Ländern ist der Bevölkerungsanteil der Frauen zwischen 2000 und 2020 am meisten gesunken oder gestiegen?
 Welche Gründe gibt es für die Veränderungen?
 
 
