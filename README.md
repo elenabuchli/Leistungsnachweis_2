@@ -11,7 +11,7 @@ Das Verhältnis zwischen männlicher und weiblicher Bevölkerung wird als "gende
 
 ### Fragestellung:
 In welchen Ländern ist der Bevölkerungsanteil der Frauen zwischen 2000 und 2020 am meisten gesunken oder gestiegen?
-Welche Gründe gibt es für die Veränderungen?
+Welche Gründe gibt es für die negativen Veränderungen?
 
 
 Quellen:
