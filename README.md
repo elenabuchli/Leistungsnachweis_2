@@ -16,6 +16,7 @@ Welche Gründe gibt es für die negativen Veränderungen?
 
 Quellen:
 https://ourworldindata.org/gender-ratio
+https://ourworldindata.org/migration Share of the population that was born in another country, Immigrants as a share of the total population. // Filter nach ausgewählten Ländern
 
 
 
